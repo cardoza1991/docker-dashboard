@@ -29,7 +29,7 @@ A lightweight desktop application for managing Docker containers, images, volume
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/docker-dashboard.git
+git clone https://github.com/cardoza1991/docker-dashboard.git
 cd docker-dashboard
 ```
 
