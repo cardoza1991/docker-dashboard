@@ -50,7 +50,7 @@ go build
 
 ### Binary Releases
 
-Pre-built binaries for Windows, macOS, and Linux are available on the [Releases](https://github.com/yourusername/docker-dashboard/releases) page.
+Pre-built binaries for Windows, macOS, and Linux are available on the [Releases](https://github.com/cardoza1991/docker-dashboard/releases) page.
 
 ## Usage
 
